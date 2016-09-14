@@ -3,16 +3,13 @@
   "version": "1.0.3",
   "description": "React Native Image with cross platform blurRadius property.",
   "keywords": [
-    "ReactNative",
+    "Android",
     "Blur",
     "ImageView",
-    "Android"
+    "ReactNative"
   ],
   "license": "MIT",
   "author": "Dylan Vann <dylan.vann@gmail.com> (dylanvann.com)",
   "main": "index.js",
-  "repository": "DylanVann/react-native-progressive-image",
-  "dependencies": {
-    "react-native-blur": "^1.0.1"
-  }
+  "repository": "DylanVann/react-native-progressive-image"
 }
