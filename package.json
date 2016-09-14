@@ -1,6 +1,6 @@
 {
   "name": "react-native-blur-image",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "React Native Image with cross platform blurRadius property.",
   "keywords": [
     "Android",
