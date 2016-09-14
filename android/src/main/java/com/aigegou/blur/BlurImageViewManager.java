@@ -1,6 +1,6 @@
 package com.aigegou.blur;
 
-import com.aigegou.android.blur.BlurImageView;
+import com.aigegou.blur.BlurImageView;
 import com.facebook.react.uimanager.SimpleViewManager;
 import com.facebook.react.uimanager.ThemedReactContext;
 import com.facebook.react.uimanager.annotations.ReactProp;
