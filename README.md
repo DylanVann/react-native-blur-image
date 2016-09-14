@@ -4,14 +4,14 @@ React Native Image with cross platform blurRadius property.
 
 ## Installation
 
-```
+```bash
 npm i -S react-native-blur-image
 react-native link
 ```
 
 ## Usage
 
-```
+```javascript
 import BlurImage from 'react-native-blur-image'
 
 <BlurImage
