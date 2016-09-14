@@ -23,7 +23,8 @@ public class BlurImageViewManager extends SimpleViewManager<BlurImageView> {
     }
     @ReactProp(name = "blurRadius", defaultInt = 0)
     public void setRadius(BlurImageView view, int radius) {
-        view.setRadiusAndUpdate(radius);
+        int adjustedRadius = radius / 4;
+        view.setRadiusAndUpdate(adjustedRadius);
     }
 
     @ReactProp(name = "sampling", defaultInt = 1)
