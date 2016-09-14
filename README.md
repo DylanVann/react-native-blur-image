@@ -1,2 +1,5 @@
-# react-native-blur-image
-React Native Image with cross platform blurRadius property.
+# ReactNativeBlurImageView
+
+Navtive ImageView with FastBlur
+
+See link [ReactNativeBlurImageViewSample](https://github.com/herbertdai/ReactNativeBlurImageViewSample)
