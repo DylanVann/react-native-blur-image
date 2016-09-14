@@ -1,4 +1,4 @@
-package com.aigegou.android.blur;
+package com.aigegou.blur;
 
 import android.content.Context;
 import android.graphics.Bitmap;

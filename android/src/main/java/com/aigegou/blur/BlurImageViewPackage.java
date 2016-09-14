@@ -1,4 +1,4 @@
-package com.aigegou.android.blur;
+package com.aigegou.blur;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;
